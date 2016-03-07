@@ -1,0 +1,21 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "0.1.0",
+  "description": "FCC request header parser microservice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
